@@ -1,0 +1,6 @@
+@font-face {
+ font-family: taroca;
+ font-style: normal;
+ font-weight: 400;
+ src: url(YOUR RAW.GITHACK URL) ;
+}
